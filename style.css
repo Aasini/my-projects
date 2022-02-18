@@ -1,0 +1,23 @@
+.line{
+   height:6px;
+    background-color: lightyellow;
+    width:70px;
+        margin:4pxauto;
+    
+}
+#games{
+ width:100%;
+    height: 100px;
+    background-color: aquamarine;
+    
+}
+#chatbot{
+    width:100%;
+    height: 100px;
+    background-color:lightcoral; 
+    
+}
+body{
+    
+text-align: center;
+}
